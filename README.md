@@ -31,7 +31,7 @@ Xerousmelous (me).
 ## YEAH IT IS MADE IN MICROSOFT EXCEL!!!
 ###### _Idk if this is good or not lol_
 
-And... Here is the download:
+## The download: Wait a minute, we are having some trouble here!
 
 As I said, at this moment the _Arcane Calculator_ only have 2 versions:
 - Brazilian Portuguese
